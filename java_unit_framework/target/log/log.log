@@ -1,0 +1,83 @@
+2024-10-19 01:33:06 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-10-19 01:33:06 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-10-19 01:33:35 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-10-19 01:33:35 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-10-19 01:33:35 INFO  - Browser 'CHROME' ready...
+2024-10-19 01:33:35 INFO  - Maximizing browser window
+2024-10-19 01:33:35 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-10-19 01:33:47 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-10-19 01:36:02 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-10-19 01:36:02 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-10-19 01:36:26 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-10-19 01:36:26 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-10-19 01:36:26 INFO  - Browser 'CHROME' ready...
+2024-10-19 01:36:26 INFO  - Maximizing browser window
+2024-10-19 01:36:26 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-10-19 01:37:46 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-10-19 01:37:46 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-10-19 01:37:56 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-10-19 01:37:56 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-10-19 01:37:56 INFO  - Browser 'CHROME' ready...
+2024-10-19 01:37:56 INFO  - Maximizing browser window
+2024-10-19 01:37:56 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-10-19 01:43:35 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-10-19 01:43:35 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-10-19 01:43:49 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-10-19 01:43:49 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-10-19 01:43:49 INFO  - Browser 'CHROME' ready...
+2024-10-19 01:43:49 INFO  - Maximizing browser window
+2024-10-19 01:43:50 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-10-19 01:48:07 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-10-19 01:48:07 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-10-19 01:48:26 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-10-19 01:48:26 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-10-19 01:48:26 INFO  - Browser 'CHROME' ready...
+2024-10-19 01:48:26 INFO  - Maximizing browser window
+2024-10-19 01:48:27 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-10-19 01:48:41 INFO  - Link 'JavaScript Alerts' :: Clicking
+2024-10-19 01:48:43 INFO  - Button 'Click for JS alert' :: Clicking
+2024-10-19 01:48:44 INFO  - Accepting browser alert
+2024-10-19 01:48:44 INFO  - Closing browser
+2024-10-19 01:49:21 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-10-19 01:49:21 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-10-19 01:49:33 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-10-19 01:49:33 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-10-19 01:49:33 INFO  - Browser 'CHROME' ready...
+2024-10-19 01:49:33 INFO  - Maximizing browser window
+2024-10-19 01:49:34 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-10-19 01:49:43 INFO  - Link 'Sortable Data Tables' :: Clicking
+2024-10-19 01:49:45 INFO  - Closing browser
+2024-10-19 01:50:24 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-10-19 01:50:24 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-10-19 01:50:41 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-10-19 01:50:41 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-10-19 01:50:41 INFO  - Browser 'CHROME' ready...
+2024-10-19 01:50:41 INFO  - Maximizing browser window
+2024-10-19 01:50:42 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-10-19 01:50:51 INFO  - Link 'Sortable Data Tables' :: Clicking
+2024-10-19 01:50:52 INFO  - Closing browser
+2024-10-19 02:47:27 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2024-10-19 02:47:27 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-10-19 02:47:43 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-10-19 02:47:43 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-10-19 02:47:43 INFO  - Browser 'CHROME' ready...
+2024-10-19 02:47:43 INFO  - Maximizing browser window
+2024-10-19 02:47:43 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-10-19 02:47:45 INFO  - Navigate to url - 'https://the-internet.herokuapp.com/dynamic_controls'
+2024-10-19 02:47:50 INFO  - Closing browser
